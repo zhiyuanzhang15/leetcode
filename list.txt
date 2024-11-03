@@ -1,11 +1,11 @@
 LeetCode题目：
-84
-739
-42
-200
-684
-924
-209
+84 done
+739 done
+42 done
+200 done
+684 done again
+924 done again
+209 done
 1004
 3
 1094
