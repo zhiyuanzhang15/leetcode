@@ -6,9 +6,9 @@ LeetCode题目：
 684 done again
 924 done again
 209 done
-1004
-3
-1094
+1004 done
+3 done
+1094 done
 1109
 122
 240
