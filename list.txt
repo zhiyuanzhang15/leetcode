@@ -14,10 +14,10 @@ LeetCode题目：
 240 done
 4 done
 33 done
-127
-529
-1263
-332
+127 done again
+529 done
+1263 done
+332 done
 113
 685
 213
