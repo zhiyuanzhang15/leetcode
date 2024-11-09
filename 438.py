@@ -8,7 +8,7 @@ def find_anagrams(s, p):
     result = []
     p_count = Counter(p)
     s_count = Counter()
-
+    print(p_count)
     p_length = len(p)
     s_length = len(s)
 

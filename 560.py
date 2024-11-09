@@ -20,7 +20,7 @@ def subarraySum(nums, k):
     return count
 
 # 示例使用
-nums = [1, 1, 1]
+nums = [1, 2, 1, -1, 0]
 k = 2
 print(subarraySum(nums, k))  # 输出: 2
 
